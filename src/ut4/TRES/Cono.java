@@ -46,7 +46,7 @@ public class Cono {
         }
 
     /**
-     * El metodo que imprime los datos del cono al final
+     * El metodo que imprime los datos del cono al final ALTERADO
      */
     public void imprimir () {
             base.imprimir();

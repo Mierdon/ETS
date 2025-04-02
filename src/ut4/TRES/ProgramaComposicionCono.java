@@ -12,7 +12,7 @@ public class ProgramaComposicionCono {
     /**
      * Primero genera un numero aleatorio, luego entra a un bucle, en este asigna un valor aleatorio ente 0 y 10
      * a una variable, a continuacion crea un cono de valores X e Y 0 con radio aleatorio, y de altura i (1 a 5)
-     * por ultimo asigna el color y lo imprime con un metodo de la clase Cono
+     * por ultimo asigna el color y lo imprime con un metodo de la clase Cono ALTERADO
      * @param args
      */
     public static void main (String[] args) {

@@ -97,7 +97,7 @@ public class Prisma implements Comparable<Prisma>{
      * calculo del area total que usa todo el resto de metodos
       * @param baseTriangulo
      * @param alturaPrisma
-     * @return
+     * @return ALTERADO
      */
     public float areaTotal (int baseTriangulo, int alturaPrisma) {
     float Abase=areaBase(baseTriangulo);

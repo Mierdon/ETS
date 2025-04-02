@@ -10,7 +10,7 @@ public class Circulo {
     /**
      * constructor con los parametros antes mencionados
      * @param cX
-     * @param cY
+     * @param cY ALTERADO
      * @param r
      */
         public Circulo(float cX, float cY, float r) { // constructor
